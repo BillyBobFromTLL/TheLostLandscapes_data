@@ -1,7 +1,13 @@
 ManifestFileVersion: 0
-CRC: 1541219532
+CRC: 3399553155
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: gm
+      Name: desert_midi
+      Dependencies: {}
+    Info_1:
+      Name: monster_trox
+      Dependencies: {}
+    Info_2:
+      Name: desert_sound
       Dependencies: {}
