@@ -14,3 +14,4 @@ Minigame_stacking
 Minigame_Simon
 Stargazer
 Credits
+Minigame_Yapleap
