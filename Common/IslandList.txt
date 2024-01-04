@@ -9,3 +9,8 @@ Candy
 Knottshurr
 Meduza
 dream
+EgyptPipes
+Minigame_Thumpies
+Minigame_stacking
+Minigame_Simon
+Minigame_YapLeap
