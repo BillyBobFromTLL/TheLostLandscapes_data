@@ -9,4 +9,4 @@
 9 shadow@Monsters/Monster_loodvigg;bone@Monsters/Monster_bone
 10 earth@Monsters/Monster_torrt;bone@Monsters/Monster_bone
 11 plasma@Monsters/Monster_plixie;psychic@Monsters/Monster_psychic
-12 air@Monsters/Monster_attmoz;faerie@Monsters/Monster_faerie;plasma@Monsters/Monster_ghazt_undof
+12 air@Monsters/Monster_attmoz;faerie@Monsters/Monster_faerie

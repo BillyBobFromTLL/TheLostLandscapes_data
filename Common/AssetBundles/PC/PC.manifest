@@ -11,6 +11,3 @@ AssetBundleManifest:
     Info_2:
       Name: desert_sound
       Dependencies: {}
-    Info_4:
-      Name: egypt_midi
-      Dependencies: {}
