@@ -1,6 +1,21 @@
 
 City 0
 Monsters/Monster_scaratar= 0
+Monsters/Monster_loodvigg= 0
+Monsters/Monster_torrt= 0
+Monsters/Monster_attmoz= 0
+Monsters/Monster_hornacle= 0
+Monsters/Monster_furnoss= 0
+Monsters/Monster_glaishur= 0
+Monsters/Monster_blasoom= 0
+Monsters/Monster_syncopite= 0
+Monsters/Monster_vhamp= 0
+Monsters/Monster_galvana= 0
+Monsters/Monster_psychic= 0
+Monsters/Monster_bone= 0
+Monsters/Monster_faerie= 0
+Monsters/Monster_light= 0
+
 ;
 Candy 0
 Monsters/Monster_toejammer_undof= 1000
