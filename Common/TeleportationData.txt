@@ -137,6 +137,7 @@ Monsters/Monster_pummel_meduza= 0
 Calamity 86400 17
 Monsters/Monster_varrow=Monsters/Monster_varrow 17
 Monsters/Monster_banno=Monsters/Monster_banno 17
+Monsters/Monster_banno_rare=Monsters/Monster_banno_rare 17
 Monsters/Monster_stogg_young=Monsters/Monster_stogg_undof= 17
 Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 17
 Monsters/Monster_pummel_young=Monsters/Monster_pummel 17
@@ -148,6 +149,7 @@ Monsters/Monster_punkleton= 0
 Monsters/Monster_stogg_undof= 0
 Monsters/Monster_rootitoot= 0
 Monsters/Monster_pummel= 0
+
 ;
 TI 86400 15
 Monsters/Monster_quibble_young=Monsters/Monster_quibble 15
