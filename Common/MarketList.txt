@@ -148,8 +148,8 @@ Monsters/Monster_gloptic_young
 Monsters/Monster_punkleton_young
 -
 monsters_celestials:
-Monsters/Monster_plixie
-Monsters/Monster_psychic
+Monsters/Monster_hornacle
+Monsters/Monster_light
 -
 decorations:
 Decoration/Decoration_test
@@ -579,6 +579,7 @@ Monsters/Monster_boskus Vortex=1
 Monsters/Monster_pango Vortex=1
 Monsters/Monster_denchuhs Vortex=1
 Monsters/Monster_banno Vortex=1
+Monsters/Monster_banno_rare Vortex=3
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel Vortex=1
 Monsters/Monster_clamble Vortex=1
