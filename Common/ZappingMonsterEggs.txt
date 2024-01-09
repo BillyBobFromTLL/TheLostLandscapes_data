@@ -90,5 +90,9 @@ Monsters/Monster_arackulele 1
 Monsters/Monster_punkleton 1
 Monsters/Monster_ffydill 1
 Monsters/Monster_deedge 1
+;
+Wubbox Calamity
+Monsters/Gnarls 1
 
+;
 
