@@ -9,6 +9,3 @@ GM
 Knottshurr
 Meduza
 dream
-EgyptPipes
-TEST
-Minigame_YapLeap
